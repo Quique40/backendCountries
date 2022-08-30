@@ -7,7 +7,7 @@ const routes = require("./routes/index.js");
 require("./db.js");
 
 const local = "http://localhost:3000";
-const vercel = "https://pokedex-ceballos.vercel.app";
+const vercel = "https://app-countries-eg.vercel.app";
 
 const server = express();
 // const cors = require('cors');
